@@ -1,0 +1,50 @@
+$theme-color: #d33a31;
+$theme-color-light: #d33a31c7;
+$theme-color-dark: #e6180c;
+$black: #000;
+$light-black: #242424;
+$white: #fff;
+$gold: #e7aa5a;
+$blue: #517eaf;
+$grey-light: #ebeef57d;
+$grey: #ebeef5;
+$grey-dark: #909399;
+
+$font-size: 14px;
+$font-size-lg: 16px;
+$font-size-sm: 12px;
+$font-size-xs: 10px;
+$font-size-md: 15px;
+
+$header-height: 64px;
+$header-index: 999;
+$menu-width: 200px;
+$footer-height: 64px;
+$footer-index: 1003;
+$current-song-index: 1001;
+$playlist-width: 420px;
+$playlist-index: 1002;
+
+// 版心宽度
+$content-width: 1080px;
+
+// z-popper
+$popper-min-width: 80px;
+$popper-index: 1200;
+
+// z-meun
+$menu-width: 240px;
+$menu-bg: #ebeef547;
+$menu-title-height: 56px;
+$menu-title-color: #909399;
+$menu-item-active: #ebeef5;
+$menu-item-height: 50px;
+
+// z-swiper
+$swiper-trigger-index: 40;
+
+// z-card
+$card-header-height: 40px;
+
+// z-loading
+$loading-index: 2000;
